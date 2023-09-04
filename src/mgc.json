@@ -1,0 +1,311 @@
+{
+    "mgc": [
+        {
+            "id": 4628,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 8B3; Meter Reading: July - 50.630M3; August - 58.400M3; Consumption - 7.770M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4627,
+            "rules": "Please Pay the bill within September August to avoid late charges. Bill For: 7B3; Meter Reading: July - 61.080M3; August - 78.410M3; Consumption - 17.330M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4626,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 5B3; Meter Reading: July - 23.880M3; August - 24.930M3; Consumption - 1.050M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4625,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 4B3; Meter Reading: July - 51.860M3; August - 58.470M3; Consumption - 6.610M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4624,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 3B3; Meter Reading: July - 18.380M3; August - 21.990M3; Consumption - 3.610M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4623,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 11A3; Meter Reading: July - 126.720M3; August - 139.770M3; Consumption - 13.050M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4622,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 9A3; Meter Reading: July - 19.690M3; August - 21.560M3; Consumption - 1.870M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4621,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 8A3; Meter Reading: July - 26.260M3; August - 28.600M3; Consumption - 2.340M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4620,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 6A3; Meter Reading: July - 130.530M3; August - 138.380M3; Consumption - 7.850M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4618,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 5A3; Meter Reading: July - 77.230M3; August -83.860M3; Consumption - 6.630M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4617,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 4A3; Meter Reading: July - 12.590M3; August - 16.290M3; Consumption - 3.700M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4616,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 2A3; Meter Reading: July - 12.520M3; August - 22.870M3; Consumption - 10.350M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4615,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 12C2; Meter Reading: July - 27.080M3; August - 32.210M3; Consumption - 5.130M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4614,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 11C2; Meter Reading: July - 11.600M3; August - 17.470M3; Consumption - 5.870M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4613,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 7C2; Meter Reading: July - 99.040M3; August - 107.620M3; Consumption - 8.580M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4612,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 10C2; Meter Reading: July - 93.000M3; August - 98.730M3; Consumption - 5.730M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4611,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 9C2; Meter Reading: July - 111.330M3; August - 118.330M3; Consumption - 7.000M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4610,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 8C2; Meter Reading: July - 58.480M3; August - 63.140M3; Consumption - 4.660M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4608,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 6C2; Meter Reading: July - 65.760M3; August - 73.560M3; Consumption - 7.800M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4606,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 5C2; Meter Reading: July - 74.180M3; August - 81.990M3; Consumption - 7.810M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4605,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 4C2; Meter Reading: July - 39.000M3; August - 45.720M3; Consumption - 6.720M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4604,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 3C2; Meter Reading: July - 110.220M3; August - 118.710M3; Consumption - 8.490M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4603,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 2C2; Meter Reading: July - 145.650M3; August - 155.820M3; Consumption - 10.170M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4602,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 12B2; Meter Reading: July - 2.480M3; August - 15.880M3; Consumption - 13.400M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4601,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 11B2; Meter Reading: July - 96.630M3; August - 105.380M3; Consumption - 8.750M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4600,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 10B2; Meter Reading: July - 64.110M3; August - 70.090M3; Consumption - 5.980M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4599,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 9B2; Meter Reading: July - 78.000M3; August - 90.150M3; Consumption - 12.150M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4598,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 8B2; Meter Reading: July - 164.480M3; August - 174.730M3; Consumption - 10.250M3; UnitPrice 224.00 BDT/M3"
+        },
+    
+        {
+            "id": 4597,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 7B2; Meter Reading: July - 135.590M3; August - 143.260M3; Consumption - 7.670M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4596,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 6B2; Meter Reading: July - 120.990M3; August - 130.090M3; Consumption - 9.100M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4551,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 9C4; Meter Reading: July - 30.090M3; August - 32.390M3; Consumption - 2.300M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4550,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 8C4; Meter Reading: July - 129.780M3; August - 137.780M3; Consumption - 8.000M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4549,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 7C4; Meter Reading: July - 135.130M3; August - 142.090M3; Consumption - 6.960M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4548,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 6C4; Meter Reading: July - 84.280M3; August - 91.500M3; Consumption - 7.220M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4547,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 5C4; Meter Reading: July - 122.380M3; August - 129.880M3; Consumption - 7.500M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4546,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 4C4; Meter Reading: July - 15.160M3; August - 16.900M3; Consumption - 1.740M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4545,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 3C4; Meter Reading: July - 143.480M3; August - 151.980M3; Consumption - 8.500M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4544,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 2C4; Meter Reading: July - 20.470M3; August - 21.050M3; Consumption - 0.580M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4543,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 11B4; Meter Reading: July - 118.180M3; August - 132.580M3; Consumption - 14.400M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4542,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 10B4; Meter Reading: July - 21.640M3; August - 33.430M3; Consumption - 11.790M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4541,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 8B4; Meter Reading: July - 37.240M3; August - 39.950M3; Consumption - 2.710M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4539,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 7B4; Meter Reading: July - 145.090M3; August - 151.460M3; Consumption - 6.370M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4538,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 6B4; Meter Reading: July - 39.620M3; August - 47.960M3; Consumption - 8.340M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4537,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 4B4; Meter Reading: July - 93.050M3; August - 97.770M3; Consumption - 4.720M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4536,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 11A4; Meter Reading: July - 134.410M3; August - 142.570M3; Consumption - 8.160M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4535,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 10A4; Meter Reading: July - 339.720M3; August - 352.780M3; Consumption - 13.060M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4534,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 9A4; Meter Reading: July - 499.320M3; August - 520.390M3; Consumption - 21.070M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4533,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 7A4; Meter Reading: July - 69.560M3; August - 76.230M3; Consumption - 6.670M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4532,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 5A4; Meter Reading: July - 0.400M3; August - 8.110M3; Consumption - 7.710M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4531,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 4A4; Meter Reading: July -132.040M3; August - 135.360M3; Consumption - 3.320M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4530,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 1A4; Meter Reading: July - 51.180M3; August - 53.150M3; Consumption - 1.970M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4529,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 10C1; Meter Reading: July - 77.360M3; August - 82.060M3; Consumption - 4.700M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4528,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 9C1; Meter Reading: July - 158.510M3; August - 170.500M3; Consumption - 11.990M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4527,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 8C1; Meter Reading: July - 301.280M3; August - 320.830M3; Consumption - 19.550M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4526,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 7C1; Meter Reading: July - 351.310M3; August - 361.200M3; Consumption - 9.890M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4525,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 6C1; Meter Reading: July - 196.280M3; August - 204.500M3; Consumption - 8.220M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4524,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 5C1; Meter Reading: July - 113.530M3; August - 120.650M3; Consumption - 7.120M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4523,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 3C1; Meter Reading: July - 123.940M3; August - 130.400M3; Consumption - 6.460M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4522,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 2C1; Meter Reading: July - 219.010M3; August - 226.630M3; Consumption - 7.620M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4521,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 1C1; Meter Reading: July - 14.210M3; August - 18.400M3; Consumption - 4.190M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4519,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 7B1; Meter Reading: July - 179.310M3; August - 185.640M3; Con"
+        },
+        {
+            "id": 4518,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 6B1; Meter Reading: July - 155.780M3; August - 161.860M3; Consumption - 6.080M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4517,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 5B1; Meter Reading: July - 154.050M3; August - 161.520M3; Consumption - 7.470M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4516,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 4B1; Meter Reading: July - 149.590M3; August - 155.180M3; Consumption - 5.590M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4515,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 3B1; Meter Reading: July - 115.930M3; August - 124.480M3; Consumption - 8.550M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4514,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 2B1; Meter Reading: July - 34.710M3; August - 35.640M3; Consumption - 0.930M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4520,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 1B1; Meter Reading: July - 0.140M3; August - 1.500M3; Consumption - 1.360M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4513,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 11A1; Meter Reading: July - 96.240M3; August - 99.760M3; Consumption - 3.520M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4512,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 10A1; Meter Reading: July - 247.620M3; August - 255.000M3; Consumption - 7.380M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4509,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 8A1; Meter Reading: July - 198.300M3; August - 205.100M3; Consumption - 6.800M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4508,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 6A1; Meter Reading: July - 73.110M3; August - 78.360M3; Consumption - 5.250M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4507,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 5A1; Meter Reading: July - 188.380M3; August - 194.580M3; Consumption - 6.200M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4506,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 4A1; Meter Reading: July - 155.760M3; August - 166.270M3; Consumption - 10.510M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4504,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 3A1; Meter Reading: July - 246.780M3; August - 257.670M3; Consumption - 10.890M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4502,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 2A1; Meter Reading: July - 91.140M3; August - 97.580M3; Consumption - 6.440M3; UnitPrice 224.00 BDT/M3"
+        },
+        {
+            "id": 4511,
+            "rules": "Please Pay the bill within 20th September to avoid late charges. Bill For: 1A1; Meter Reading: July - 20.76M3; August - 23.48M3; Consumption - 2.720M3; UnitPrice 224.00 BDT/M3"
+        }
+        
+
+    ]
+    }
